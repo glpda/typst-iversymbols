@@ -7,8 +7,8 @@ Symbols definition for Iversonian languages.
 ## Features
 
 Currently include symbol dictionaries for:
-- BQN
-- Uiua
+- [BQN](https://mlochbaum.github.io/BQN/index.html)
+- [Uiua](https://www.uiua.org/)
 
 
 ## Usage
