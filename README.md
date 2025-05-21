@@ -3,6 +3,14 @@
 
 Symbols definition for Iversonian languages.
 
+
+## Features
+
+Currently include symbol dictionaries for:
+- BQN
+- Uiua
+
+
 ## Usage
 
 ```typst
