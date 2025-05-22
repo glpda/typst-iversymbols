@@ -9,7 +9,7 @@
     separator: "⋄",
     strand: "‿",
     "_": "‿",
-    // assignments
+    // assignments:
     define: "←",
     export: "⇐",
     change: "↩",
@@ -201,12 +201,15 @@
     macro: "!",
     placeholder: "^",
     binding: "←",
+    bind: "←",
     private-binding: "↚",
-    //module: "~",
+    private-bind: "↚",
+    priv-binding: "↚",
+    priv-bind: "↚",
     alias: "~",
     begin-scope: "┌─╴",
     end-scope: "└─╴",
-    // monadic pervasive functions
+    // monadic pervasive functions:
     "not": "¬",
     sign: "±",
     negate: "¯",
@@ -259,7 +262,7 @@
     atangent: "∠",
     atan: "∠",
     complex: "ℂ",
-    // monadic functions
+    // monadic functions:
     length: "⧻",
     len: "⧻",
     shape: "△",
