@@ -9,6 +9,9 @@ Symbols definition for Iversonian languages.
 Currently include symbol dictionaries for:
 - [BQN](https://mlochbaum.github.io/BQN/index.html)
 - [Uiua](https://www.uiua.org/)
+- [APL\360](https://aplwiki.com/wiki/APL%5C360)
+- [APL64](https://aplwiki.com/wiki/APL64)
+- [Dyalog APL](https://aplwiki.com/wiki/Dyalog_APL)
 
 
 ## Usage
