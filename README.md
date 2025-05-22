@@ -14,6 +14,13 @@ Currently include symbol dictionaries for:
 - [Dyalog APL](https://aplwiki.com/wiki/Dyalog_APL)
 - [Extended Dyalog APL](https://aplwiki.com/wiki/Extended_Dyalog_APL)
 
+TODO:
+- [NARS](https://aplwiki.com/wiki/NARS)
+- [NARS2000](https://aplwiki.com/wiki/NARS2000)
+- [dzaima/APL](https://aplwiki.com/wiki/Dzaima/APL)
+- [Kap](https://aplwiki.com/wiki/Kap)
+- [Sharp APL](https://aplwiki.com/wiki/SHARP_APL)
+
 
 ## Usage
 
