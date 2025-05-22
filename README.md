@@ -12,6 +12,7 @@ Currently include symbol dictionaries for:
 - [APL\360](https://aplwiki.com/wiki/APL%5C360)
 - [APL64](https://aplwiki.com/wiki/APL64)
 - [Dyalog APL](https://aplwiki.com/wiki/Dyalog_APL)
+- [Extended Dyalog APL](https://aplwiki.com/wiki/Extended_Dyalog_APL)
 
 
 ## Usage

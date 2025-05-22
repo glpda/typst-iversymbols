@@ -655,5 +655,38 @@
   )
 }
 
+#let extended-dyalog = {
+  (
+    ..dyalog,
+    complex: "⌾",
+    immaginary: "⌾",
+    img: "⌾",
+    under: "⍢",
+    dual: "⍢",
+    obverse: "⍫",
+    ellipsis: "…",
+    dfns: "⌂",
+    infinity: "∞",
+    inf: "∞",
+    count-in: "⍧",
+    nubsieve: "⍧",
+    title-case: "÷",
+    titlecase: "÷",
+    lower-case: "⌊",
+    lowercase: "⌊",
+    upper-case: "⌈",
+    uppercase: "⌈",
+    change-case: "-",
+    square-root: "√",
+    sqrt: "√",
+    root: "√",
+    factors: "⍭",
+    primes: "⍭",
+    self-classify: "∩",
+    sort-up: "∧",
+    sort-down: "∨",
+  )
+}
+
 
 
