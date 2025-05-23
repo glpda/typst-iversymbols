@@ -11,7 +11,7 @@ Currently include symbol dictionaries for:
 - [Uiua](https://www.uiua.org/)
 - [APL\360](https://aplwiki.com/wiki/APL%5C360)
 - [APL64](https://aplwiki.com/wiki/APL64)
-- [Dyalog APL](https://aplwiki.com/wiki/Dyalog_APL)
+- [Dyalog APL](https://www.dyalog.com/dyalog/index.htm)
 - [Extended Dyalog APL](https://aplwiki.com/wiki/Extended_Dyalog_APL)
 - [NARS](https://aplwiki.com/wiki/NARS)
 - [NARS2000](https://nars2000.org/)
