@@ -677,11 +677,15 @@
     dual: "⍢",
     obverse: "⍫",
     ellipsis: "…",
+    range: "…",
+    sequence: "…",
     dfns: "⌂",
     infinity: "∞",
     inf: "∞",
     count-in: "⍧",
     nubsieve: "⍧",
+    selet: "⊇",
+    from: "⊇",
     title-case: "÷",
     titlecase: "÷",
     lower-case: "⌊",
@@ -697,8 +701,30 @@
     self-classify: "∩",
     sort-up: "∧",
     sort-down: "∨",
+    reverse-compose: "⍛",
+    compose-reverse: "⍛",
+    before: "⍛",
+    behind: "⍛",
   )
 }
+
+#let dzaima = {
+  (
+    ..extended-dyalog,
+    repeat-cumulative: "⍡",
+    repeat-cumul: "⍡",
+    diagonal: "⍁",
+    each-left: "ᐵ",
+    each-right: "ᑈ",
+    operand-left: "⍶",
+    left-operand: "⍶",
+    left-op: "⍶",
+    operand-right: "⍶",
+    right-operand: "⍶",
+    right-op: "⍶",
+  )
+}
+
 
 #let nars = {
   (
