@@ -16,9 +16,9 @@ Currently include symbol dictionaries for:
 - [NARS](https://aplwiki.com/wiki/NARS)
 - [NARS2000](https://nars2000.org/)
 - [dzaima/APL](https://github.com/dzaima/APL/blob/master/docs/chars.txt)
+- [Kap](https://kapdemo.dhsdevelopments.com/)
 
 TODO:
-- [Kap](https://aplwiki.com/wiki/Kap)
 - [Sharp APL](https://aplwiki.com/wiki/SHARP_APL)
 
 
