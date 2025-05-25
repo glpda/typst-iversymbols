@@ -437,6 +437,8 @@
     deal: "?",
     roll: "?",
     circle: "○",
+    trigonometry: "○",
+    trigo: "○",
     pi: "○",
     factorial: "!",
     fact: "!",
