@@ -596,6 +596,50 @@
   )
 }
 
+#let sharp = {
+  (
+    ..apl,
+    // functions:
+    conjugate: "+",
+    least-common-multiple: "∧",
+    lcm: "∧",
+    greatest-common-divisor: "∨",
+    gcd: "∨",
+    matrix-divide: "⌹",
+    matrix-div: "⌹",
+    matrix-inverse: "⌹",
+    matrix-inv: "⌹",
+    match: "≡",
+    disclose: ">",
+    enclose: "<",
+    enclose-conditional: "⊃",
+    nest: "⊃",
+    link: "⊃",
+    identity: "⊢",
+    id: "⊢",
+    same: "⊢",
+    pass: "⊢",
+    right: "⊢",
+    stop: "⊣",
+    hide: "⊣",
+    left: "⊣",
+    execute: "⍎",
+    exec: "⍎",
+    format: "⍕",
+    form: "⍕",
+    // operators:
+    on: "⍤",
+    rank: "⍤",
+    atop: "⍤",
+    cut: "⍤",
+    upon: "⍥",
+    over: "⍥",
+    dual: "¨",
+    under: "¨",
+    determinant: ".",
+  )
+}
+
 #let dyalog = {
   (
     ..apl,
