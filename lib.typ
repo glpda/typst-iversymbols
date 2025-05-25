@@ -600,6 +600,10 @@
   (
     ..apl,
     // functions:
+    least-common-multiple: "∧",
+    lcm: "∧",
+    greatest-common-divisor: "∨",
+    gcd: "∨",
     without: "~",
     exclude: "~",
     set-difference: "~",
@@ -743,7 +747,6 @@
   )
 }
 
-
 #let nars = {
   (
     ..apl,
@@ -807,6 +810,10 @@
     count: "≢",
     primes: "π",
     factors: "π",
+    least-common-multiple: "∧",
+    lcm: "∧",
+    greatest-common-divisor: "∨",
+    gcd: "∨",
     square-root: "√",
     sqrt: "√",
     root: "√",
