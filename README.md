@@ -3,6 +3,8 @@
 
 Symbols definition for Iversonian languages.
 
+I am not an APL practitioner, so there may be misnamed or missing glyphs.
+
 
 ## Features
 
@@ -23,7 +25,7 @@ Currently include symbol dictionaries for:
 ## Usage
 
 ```typst
-#import "@preview/iversymbols:0.1.0": bqn
+#import "@preview/iversymbols:1.0.0": bqn
 
 Euclidean norm: $+ bqn.fold bqn.under (bqn.mult bqn.self)$  // +´⌾(×˜)
 ```
